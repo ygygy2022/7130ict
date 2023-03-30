@@ -22,3 +22,5 @@ chose linear/poly/rbf as three different accuracy scores
 
 in ### Compare the relation between Class and Amount. Conclusion? question don't know 
 how to give more space for the resulf in polt.
+
+Creitcard file is too big doesn't upload to github
